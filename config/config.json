@@ -1,0 +1,18 @@
+{
+  "DB": {
+    "URI": "bolt://localhost:11001",
+    "USER": "neo4j",
+    "PASSWORD": "password"
+
+  },
+  "REMOTE": {
+    "PATH": "https://www.quackit.com/neo4j/tutorial/genres.csv"
+
+  },
+
+  "NODE": {
+    "LABEL": "",
+    "Property1": "",
+    "Property2": ""
+  }
+}
